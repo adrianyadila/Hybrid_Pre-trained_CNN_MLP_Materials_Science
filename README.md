@@ -8,17 +8,17 @@ Hybrid_CNN_MLP_train.py
 Pre-trained_hybrid_CNN_MLP.py
 
 ## Multi-label CNN:
-mlb_multilabel.pickle
-multilabel_CNN_train.py
+mlb_multilabel.pickle :-
+multilabel_CNN_train.py :-
 multilabel_code.py
 
 ## Multi-class CNN:
-mlb_multiclass.pickle
-multi_class_train.py
+mlb_multiclass.pickle :-
+multi_class_train.py :-
 multiclass_code.py
 
 ## Multi-output CNN:
-Cassete_multilosses_tt.py
-class_multiout.py
-locationbin.pickle
+Cassete_multilosses_tt.py :-
+class_multiout.py :-
+locationbin.pickle :-
 passbin.pickle
